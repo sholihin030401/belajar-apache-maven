@@ -1,5 +1,5 @@
 ## Project Belajar Apache Maven
-Repositori ini berisikan source code dalam pembuatan project dasar pada java menggunakan Maven sebagai build automation tools.
+Repositori ini berisikan source code dalam pembuatan project dasar pada java menggunakan Maven sebagai build automation tools. Untuk pembelajaran, di dalam repositori ini terdapat 2 module yakni data dan app dengan distribution dan management dependency pada masing-masing module
 
 ### Pembuatan Project
 * Download Apache Maven [disini](https://maven.apache.org/download.cgi)
@@ -13,3 +13,4 @@ Repositori ini berisikan source code dalam pembuatan project dasar pada java men
 * `mvn clean` untuk membersihkan project dari folder target
 * `mvn compile` untuk kompilasi dan menghasilkan folder target
 * `mvn test` untuk testing code
+

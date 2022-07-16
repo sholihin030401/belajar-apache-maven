@@ -7,7 +7,7 @@ Repositori ini berisikan source code dalam pembuatan project dasar pada java men
 * Buka CMD, cek versi maven dengan command `mvn --version`
 * Akses folder melalui cmd untuk menyimpan file project apache maven
 * `mvn archetype:generate` untuk membuat project
-* `mvn-archetype-quickstart` untuk menambahkan nama dan beberapa spesifikasi project
+* `maven-archetype-quickstart` untuk menambahkan nama dan beberapa spesifikasi project
 
 ### Perintah Dasar
 * `mvn clean` untuk membersihkan project dari folder target
